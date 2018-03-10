@@ -1,0 +1,21 @@
+$namespace: dino;
+
+/// @author Frank Dip
+/// Dinosaur Challenge
+/// @version 1.0
+
+/////////////////////////////////////////////////
+/// Classes
+/////////////////////////////////////////////////
+.#{$namespace} {
+  &-container {
+    position: relative;
+    margin: auto;
+    width: 800px;
+    height: 376px;
+  }
+  &-svg {
+    width: 800px;
+    height: 376px;
+  }
+}
